@@ -11,7 +11,7 @@ The Algorithm that is being used is A*.
 
 
 
-![alt text](https://github.com/firdodev/FirdoCube/new/main/img1.jpg)
+![alt text](https://github.com/firdodev/FirdoCube/blob/main/img1.jpg)
 
 
 # Copyright

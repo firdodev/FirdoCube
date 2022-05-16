@@ -1,0 +1,13 @@
+C:\Users\firde\Desktop\magic-cube-master\magic-cube-master\magic-cube\bin\Debug\magic-cube.exe
+C:\Users\firde\Desktop\magic-cube-master\magic-cube-master\magic-cube\bin\Debug\magic-cube.pdb
+C:\Users\firde\Desktop\magic-cube-master\magic-cube-master\magic-cube\obj\x86\Debug\magic-cube.csproj.AssemblyReference.cache
+C:\Users\firde\Desktop\magic-cube-master\magic-cube-master\magic-cube\obj\x86\Debug\MainWindow.baml
+C:\Users\firde\Desktop\magic-cube-master\magic-cube-master\magic-cube\obj\x86\Debug\MainWindow.g.cs
+C:\Users\firde\Desktop\magic-cube-master\magic-cube-master\magic-cube\obj\x86\Debug\App.g.cs
+C:\Users\firde\Desktop\magic-cube-master\magic-cube-master\magic-cube\obj\x86\Debug\magic-cube_MarkupCompile.cache
+C:\Users\firde\Desktop\magic-cube-master\magic-cube-master\magic-cube\obj\x86\Debug\magic-cube.g.resources
+C:\Users\firde\Desktop\magic-cube-master\magic-cube-master\magic-cube\obj\x86\Debug\magic_cube.Properties.Resources.resources
+C:\Users\firde\Desktop\magic-cube-master\magic-cube-master\magic-cube\obj\x86\Debug\magic-cube.csproj.GenerateResource.cache
+C:\Users\firde\Desktop\magic-cube-master\magic-cube-master\magic-cube\obj\x86\Debug\magic-cube.csproj.CoreCompileInputs.cache
+C:\Users\firde\Desktop\magic-cube-master\magic-cube-master\magic-cube\obj\x86\Debug\magic-cube.exe
+C:\Users\firde\Desktop\magic-cube-master\magic-cube-master\magic-cube\obj\x86\Debug\magic-cube.pdb
